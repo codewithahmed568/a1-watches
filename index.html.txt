@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>A-1 Watches</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>⏱ A-1 Watches</h1>
+  <p>Luxury & Modern Timepieces</p>
+</header>
+
+<section class="hero">
+  <h2>Discover Premium Watches</h2>
+  <p>Style. Class. Precision.</p>
+  <button>Shop Now</button>
+</section>
+
+<section class="products">
+
+  <div class="card">
+    <img src="https://via.placeholder.com/200" alt="Watch">
+    <h3>Classic Black</h3>
+    <p>$120</p>
+  </div>
+
+  <div class="card">
+    <img src="https://via.placeholder.com/200" alt="Watch">
+    <h3>Silver Elegance</h3>
+    <p>$150</p>
+  </div>
+
+  <div class="card">
+    <img src="https://via.placeholder.com/200" alt="Watch">
+    <h3>Gold Luxury</h3>
+    <p>$200</p>
+  </div>
+
+</section>
+
+<footer>
+  <p>© 2026 A-1 Watches | Designed by Ahmed Ali</p>
+</footer>
+
+</body>
+</html>
